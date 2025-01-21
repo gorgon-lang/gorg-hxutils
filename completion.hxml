@@ -1,0 +1,3 @@
+--macro include("gorgan")
+--cpp bin/cpp
+--no-output

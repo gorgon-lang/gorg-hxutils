@@ -1,0 +1,10 @@
+{
+	"name": "gorg-hxutils",
+	"url": "https://github.com/gorgon-lang/gorg-hxutils",
+	"license": "MIT",
+	"tags": [],
+	"description": "Utility library for Gorgan Language.",
+	"version": "0.0.1",
+	"releasenote": "",
+	"contributors": ["amiataas"]
+}
